@@ -1,7 +1,7 @@
 /*navbar*/
 header {
     position: fixed;
-    top: 25%;
+    top: 15%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 500px;
@@ -52,7 +52,7 @@ header {
   
   .sticky {
     position: fixed;
-    top: 25%;
+    top: 15%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 500px;
